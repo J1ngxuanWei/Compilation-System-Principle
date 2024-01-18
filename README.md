@@ -13,7 +13,7 @@ The compiler body located in the `./final` folder.It can translate SysY language
 - Realize the recognition, storage and calculation of arrays
 - The algorithm and optimization of linear scan register allocation and graph coloring register allocation are realized
 
-For the test sample (from `[CSCC Compilation competition](https://compiler.educg.net/#/)`), the passing conditions are as follows:
+For the test sample (from [CSCC Compilation competition](https://compiler.educg.net/#/)), the passing conditions are as follows:
 
 - 1-1: All AC
 - 1-2: All AC
