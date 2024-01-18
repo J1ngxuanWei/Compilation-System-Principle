@@ -1,6 +1,6 @@
 # You Need to know
 
-The Compiler can translate SysY language (a subset of c language) to target ARM assembly code, the specific implementation is as follows:
+The Compiler can translate SysY language (a subset of C language) to target ARM assembly code, the specific implementation is as follows:
 
 - Implement basic data flow and control flow translation
 - Realize the recognition, storage and calculation of floating point numbers
