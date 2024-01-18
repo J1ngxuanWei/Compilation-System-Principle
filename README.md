@@ -6,7 +6,7 @@ Implemented a compiler that can translate SysY language (a subset of c language)
 - lab2: Prework 2, Define your compiler, assembly programming&be familiar with auxiliary tools, Code is ARM assembly
 - OT1: Implementation of lexical analyzer construction algorithm. Implemented accepting a regular expression, converting it to NFA, minimizing DFA, outputting the final DFA, and being able to accept a string to determine whether the string is accepted by the regular expression.
 
-The compiler body located in the `./final` folder.It can translate SysY language (a subset of c language) to target ARM assembly code, the specific implementation is as follows:
+The compiler body located in the `./final` folder.It can translate SysY language (a subset of C language) to target ARM assembly code, the specific implementation is as follows:
 
 - Implement basic data flow and control flow translation
 - Realize the recognition, storage and calculation of floating point numbers
