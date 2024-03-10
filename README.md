@@ -1,5 +1,7 @@
 # Compilation-System-Principle
 
+> If you use my project, PLEASE STAR!!!!  给个STAR吧，求求了
+
 Implemented a compiler that can translate SysY language (a subset of c language) to target ARM assembly code.It includes two preparatory tasks and one additional task, with the compiler body located in the `./final` folder.
 
 - lab1: Prework 1, Understand your compiler&LLVM IR programming, the code is LLVM IR
